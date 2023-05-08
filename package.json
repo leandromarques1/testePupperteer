@@ -1,0 +1,14 @@
+{
+  "name": "programas-nodejs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "description": "",
+  "scripts": {  
+    "test" : "echo \"Error: no test specified" 
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^20.1.2"
+  }
+}
